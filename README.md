@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 32 | 8 |
+| 33 | 8 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (3)
 - [brute force](#brute-force) (5)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (20)
+- [implementation](#implementation) (21)
 - [math](#math) (6)
 - [sortings](#sortings) (1)
 - [strings](#strings) (10)
@@ -72,6 +72,7 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.txt) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
+| 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.txt) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/520/A%20-%20Pangram/solution.txt) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.txt) |
