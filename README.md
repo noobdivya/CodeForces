@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 33 | 8 |
+| 35 | 8 |
 
 ---
 
@@ -14,10 +14,10 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (3)
-- [brute force](#brute-force) (5)
-- [greedy](#greedy) (4)
+- [brute force](#brute-force) (6)
+- [greedy](#greedy) (6)
 - [implementation](#implementation) (21)
-- [math](#math) (6)
+- [math](#math) (7)
 - [sortings](#sortings) (1)
 - [strings](#strings) (10)
 
@@ -46,6 +46,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.txt) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
+| 2225B | [Alternating String](https://codeforces.com/contest/2225/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2225/B%20-%20Alternating%20String/solution.txt) |
 
 ### greedy
 
@@ -54,6 +55,8 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/231/A%20-%20Team/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
+| 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1367/B%20-%20Even%20Array/solution.txt) |
+| 2225B | [Alternating String](https://codeforces.com/contest/2225/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2225/B%20-%20Alternating%20String/solution.txt) |
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.txt) |
 
 ### implementation
@@ -91,6 +94,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.txt) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.txt) |
+| 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1367/B%20-%20Even%20Array/solution.txt) |
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.txt) |
 
 ### sortings
