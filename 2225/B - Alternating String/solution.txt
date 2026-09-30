@@ -1,0 +1,27 @@
+package main
+ 
+import "fmt"
+ 
+func main() {
+	var t int
+	fmt.Scan(&t)
+	ans := []string{}
+	for i := 0; i < t; i++ {
+		var s string
+		fmt.Scan(&s)
+		bad := 0
+		for j := 0; j+1 < len(s); j++ {
+			if s[j] == s[j+1] {
+				bad++
+			}
+		}
+		if bad <= 2 {
+			ans = append(ans, "YES")
+		} else {
+			ans = append(ans, "NO")
+		}
+	}
+	for i := 0; i < t; i++ {
+		fmt.Println(ans[i])
+	}
+}
