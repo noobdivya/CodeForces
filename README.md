@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 8 |
+| 38 | 8 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (3)
-- [brute force](#brute-force) (6)
+- [brute force](#brute-force) (7)
 - [greedy](#greedy) (6)
 - [implementation](#implementation) (23)
 - [math](#math) (8)
@@ -44,6 +44,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/4/A%20-%20Watermelon/solution.txt) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/231/A%20-%20Team/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
+| 268A | [Games](https://codeforces.com/contest/268/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/268/A%20-%20Games/solution.txt) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.txt) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
 | 2225B | [Alternating String](https://codeforces.com/contest/2225/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2225/B%20-%20Alternating%20String/solution.txt) |
