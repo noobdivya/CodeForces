@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 36 | 8 |
+| 37 | 8 |
 
 ---
 
@@ -16,8 +16,8 @@
 - [Uncategorized](#uncategorized) (3)
 - [brute force](#brute-force) (6)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (22)
-- [math](#math) (7)
+- [implementation](#implementation) (23)
+- [math](#math) (8)
 - [sortings](#sortings) (1)
 - [strings](#strings) (10)
 
@@ -85,6 +85,7 @@
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.txt) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.txt) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.txt) |
+| 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.txt) |
 
 ### math
 
@@ -97,6 +98,7 @@
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.txt) |
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1367/B%20-%20Even%20Array/solution.txt) |
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.txt) |
+| 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.txt) |
 
 ### sortings
 
