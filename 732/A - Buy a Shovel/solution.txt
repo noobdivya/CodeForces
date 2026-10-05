@@ -1,0 +1,16 @@
+package main
+ 
+import "fmt"
+ 
+func main() {
+	var k, r int
+	fmt.Scan(&k, &r)
+ 
+	for n := 1; n <= 10; n++ {
+		rem := (n * k) % 10
+		if rem == 0 || rem == r {
+			fmt.Println(n)
+			return
+		}
+	}
+}
