@@ -1,0 +1,31 @@
+package main
+ 
+import "fmt"
+ 
+func main() {
+	var t int
+	fmt.Scan(&t)
+	ans := make([]int, t)
+	for i := 0; i < t; i++ {
+		var n, k int
+		fmt.Scan(&n, &k)
+		sum := 0
+		x := 1
+		for day := 0; day < n; day++ {
+			x = 2 * x
+			if k > 1 {
+				sum = sum + x
+				x = 1
+				k--
+			} else {
+				if day == n-1 {
+					sum = sum + x
+				}
+			}
+		}
+		ans[i] = sum
+	}
+	for i := 0; i < t; i++ {
+		fmt.Println(ans[i])
+	}
+}
