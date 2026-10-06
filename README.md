@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 40 | 10 |
+| 41 | 10 |
 
 ---
 
@@ -16,9 +16,9 @@
 - [Uncategorized](#uncategorized) (3)
 - [brute force](#brute-force) (8)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (6)
+- [greedy](#greedy) (7)
 - [implementation](#implementation) (25)
-- [math](#math) (9)
+- [math](#math) (10)
 - [sortings](#sortings) (2)
 - [strings](#strings) (10)
 - [two pointers](#two-pointers) (1)
@@ -68,6 +68,7 @@
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1367/B%20-%20Even%20Array/solution.txt) |
 | 2225B | [Alternating String](https://codeforces.com/contest/2225/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2225/B%20-%20Alternating%20String/solution.txt) |
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.txt) |
+| 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.txt) |
 
 ### implementation
 
@@ -112,6 +113,7 @@
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1367/B%20-%20Even%20Array/solution.txt) |
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.txt) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.txt) |
+| 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.txt) |
 
 ### sortings
 
