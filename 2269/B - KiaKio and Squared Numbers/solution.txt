@@ -1,0 +1,44 @@
+package main
+ 
+import (
+	"bufio"
+	"fmt"
+	"os"
+)
+ 
+func next(x int) int {
+	s := 0
+	for x > 0 {
+		d := x % 10
+		s += d * d
+		x /= 10
+	}
+	return s
+}
+ 
+func main() {
+	reader := bufio.NewReader(os.Stdin)
+	writer := bufio.NewWriter(os.Stdout)
+	defer writer.Flush()
+ 
+	var t int
+	fmt.Fscan(reader, &t)
+	for ; t > 0; t-- {
+		var n int
+		fmt.Fscan(reader, &n)
+		count := make(map[int]int)
+		for i := 0; i < n; i++ {
+			var a int
+			fmt.Fscan(reader, &a)
+			for step := 0; step < 100; step++ {
+				a = next(a)
+			}
+			count[a]++
+		}
+		ans := 0
+		for _, c := range count {
+			ans += c * (c - 1) / 2
+		}
+		fmt.Fprintln(writer, ans)
+	}
+}
