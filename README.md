@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 42 | 10 |
+| 43 | 10 |
 
 ---
 
@@ -14,12 +14,12 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (3)
-- [brute force](#brute-force) (9)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [brute force](#brute-force) (10)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [greedy](#greedy) (7)
 - [implementation](#implementation) (26)
 - [math](#math) (10)
-- [sortings](#sortings) (2)
+- [sortings](#sortings) (3)
 - [strings](#strings) (10)
 - [two pointers](#two-pointers) (1)
 
@@ -51,6 +51,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.txt) |
 | 2225B | [Alternating String](https://codeforces.com/contest/2225/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2225/B%20-%20Alternating%20String/solution.txt) |
+| 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.txt) |
 | 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.txt) |
 
 ### constructive algorithms
@@ -58,6 +59,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.txt) |
+| 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.txt) |
 
 ### greedy
 
@@ -123,6 +125,7 @@
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.txt) |
+| 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.txt) |
 
 ### strings
 
