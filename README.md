@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 43 | 10 |
+| 44 | 10 |
 
 ---
 
@@ -17,8 +17,8 @@
 - [brute force](#brute-force) (10)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (26)
-- [math](#math) (10)
+- [implementation](#implementation) (27)
+- [math](#math) (11)
 - [sortings](#sortings) (3)
 - [strings](#strings) (10)
 - [two pointers](#two-pointers) (1)
@@ -100,6 +100,7 @@
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.txt) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.txt) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.txt) |
+| 1985D | [Manhattan Circle](https://codeforces.com/contest/1985/problem/D) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1985/D%20-%20Manhattan%20Circle/solution.txt) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.txt) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.txt) |
 | 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.txt) |
@@ -116,6 +117,7 @@
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.txt) |
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1367/B%20-%20Even%20Array/solution.txt) |
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.txt) |
+| 1985D | [Manhattan Circle](https://codeforces.com/contest/1985/problem/D) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1985/D%20-%20Manhattan%20Circle/solution.txt) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.txt) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.txt) |
 
