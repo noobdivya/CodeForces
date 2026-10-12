@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 44 | 10 |
+| 45 | 11 |
 
 ---
 
@@ -16,6 +16,7 @@
 - [Uncategorized](#uncategorized) (3)
 - [brute force](#brute-force) (10)
 - [constructive algorithms](#constructive-algorithms) (2)
+- [games](#games) (1)
 - [greedy](#greedy) (7)
 - [implementation](#implementation) (27)
 - [math](#math) (11)
@@ -60,6 +61,12 @@
 |---|---------|------------|----------|
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.txt) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.txt) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.txt) |
 
 ### greedy
 
