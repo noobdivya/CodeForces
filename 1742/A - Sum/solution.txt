@@ -1,0 +1,21 @@
+package main
+ 
+import "fmt"
+ 
+func main() {
+	var t int
+	fmt.Scan(&t)
+	ans := make([]string, t)
+	for i := 0; i < t; i++ {
+		var a, b, c int
+		fmt.Scan(&a, &b, &c)
+		if a+b == c || a+c == b || b+c == a {
+			ans[i] = "YES"
+		} else {
+			ans[i] = "NO"
+		}
+	}
+	for i := 0; i < t; i++ {
+		fmt.Println(ans[i])
+	}
+}
