@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 46 | 11 |
+| 50 | 12 |
 
 ---
 
@@ -15,11 +15,12 @@
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (3)
 - [brute force](#brute-force) (10)
-- [constructive algorithms](#constructive-algorithms) (3)
+- [constructive algorithms](#constructive-algorithms) (4)
 - [games](#games) (1)
 - [greedy](#greedy) (8)
-- [implementation](#implementation) (28)
-- [math](#math) (11)
+- [implementation](#implementation) (30)
+- [math](#math) (12)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (3)
 - [strings](#strings) (11)
 - [two pointers](#two-pointers) (1)
@@ -61,6 +62,7 @@
 |---|---------|------------|----------|
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.txt) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.txt) |
+| 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.txt) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.txt) |
 
 ### games
@@ -109,9 +111,11 @@
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.txt) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.txt) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.txt) |
+| 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1742/A%20-%20Sum/solution.txt) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.txt) |
 | 1985D | [Manhattan Circle](https://codeforces.com/contest/1985/problem/D) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1985/D%20-%20Manhattan%20Circle/solution.txt) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.txt) |
+| 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.txt) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.txt) |
 | 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.txt) |
 
@@ -129,7 +133,14 @@
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.txt) |
 | 1985D | [Manhattan Circle](https://codeforces.com/contest/1985/problem/D) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1985/D%20-%20Manhattan%20Circle/solution.txt) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.txt) |
+| 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2259/B%20-%20Minus%20Two/solution.txt) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.txt) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2259/B%20-%20Minus%20Two/solution.txt) |
 
 ### sortings
 
