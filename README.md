@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 51 | 12 |
+| 52 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (3)
+- [Uncategorized](#uncategorized) (4)
 - [brute force](#brute-force) (11)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [games](#games) (1)
@@ -37,6 +37,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2261B | [What's the Capital of France?](https://codeforces.com/contest/2261/problem/B) | Unrated | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2261/B%20-%20What's%20the%20Capital%20of%20France%3F/solution.txt) |
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2266/A%20-%20Good%20Contest/solution.txt) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2266/B%20-%20Three%20Piles/solution.txt) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.txt) |
