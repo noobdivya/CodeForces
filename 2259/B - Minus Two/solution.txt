@@ -1,0 +1,40 @@
+package main
+ 
+import (
+	"bufio"
+	"fmt"
+	"os"
+)
+ 
+func main() {
+	in := bufio.NewReaderSize(os.Stdin, 1<<20)
+	out := bufio.NewWriter(os.Stdout)
+	defer out.Flush()
+ 
+	var t int
+	fmt.Fscan(in, &t)
+	for ; t > 0; t-- {
+		var n int
+		fmt.Fscan(in, &n)
+		var cnt [3]int // 0: odd, 1: a%4==0, 2: a%4==2
+		for i := 0; i < n; i++ {
+			var a int
+			fmt.Fscan(in, &a)
+			switch {
+			case a%2 == 1:
+				cnt[0]++
+			case a%4 == 0:
+				cnt[1]++
+			default:
+				cnt[2]++
+			}
+		}
+		best := cnt[0]
+		for _, c := range cnt {
+			if c > best {
+				best = c
+			}
+		}
+		fmt.Fprintln(out, best)
+	}
+}
