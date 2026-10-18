@@ -1,0 +1,60 @@
+package main
+ 
+import (
+	"bufio"
+	"fmt"
+	"os"
+	"sort"
+)
+ 
+func main() {
+	in := bufio.NewReader(os.Stdin)
+	out := bufio.NewWriter(os.Stdout)
+	defer out.Flush()
+ 
+	var t int
+	fmt.Fscan(in, &t)
+	for ; t > 0; t-- {
+		var n int
+		fmt.Fscan(in, &n)
+		a := make([]int, n)
+		b := make([]int, n)
+		for i := range a {
+			fmt.Fscan(in, &a[i])
+		}
+		for i := range b {
+			fmt.Fscan(in, &b[i])
+		}
+ 
+		used := make([]bool, n)
+		p := make([]int, n)
+		ok := true
+		for i := 0; i < n && ok; i++ {
+			lo := sort.SearchInts(b, a[i]) // first j with b[j] >= a[i]
+			j := lo
+			for j < n && used[j] {
+				j++
+			}
+			if j == n {
+				ok = false
+				break
+			}
+			used[j] = true
+			p[i] = j
+		}
+		if !ok {
+			fmt.Fprintln(out, -1)
+			continue
+		}
+ 
+		inv := 0
+		for i := 0; i < n; i++ {
+			for j := i + 1; j < n; j++ {
+				if p[i] > p[j] {
+					inv++
+				}
+			}
+		}
+		fmt.Fprintln(out, inv)
+	}
+}
