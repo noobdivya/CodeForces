@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 53 | 12 |
+| 54 | 12 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [brute force](#brute-force) (12)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [games](#games) (1)
-- [greedy](#greedy) (10)
+- [greedy](#greedy) (11)
 - [implementation](#implementation) (30)
 - [math](#math) (12)
 - [number theory](#number-theory) (1)
@@ -83,6 +83,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1367/B%20-%20Even%20Array/solution.txt) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.txt) |
+| 2209B | [Array](https://codeforces.com/contest/2209/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2209/B%20-%20Array/solution.txt) |
 | 2225B | [Alternating String](https://codeforces.com/contest/2225/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2225/B%20-%20Alternating%20String/solution.txt) |
 | 2237B | [Annoying the Ghost](https://codeforces.com/contest/2237/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2237/B%20-%20Annoying%20the%20Ghost/solution.txt) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.txt) |
