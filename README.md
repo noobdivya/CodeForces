@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 54 | 12 |
+| 56 | 15 |
 
 ---
 
@@ -16,10 +16,13 @@
 - [Uncategorized](#uncategorized) (4)
 - [brute force](#brute-force) (12)
 - [constructive algorithms](#constructive-algorithms) (4)
+- [dfs and similar](#dfs-and-similar) (1)
+- [dp](#dp) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (11)
-- [implementation](#implementation) (30)
-- [math](#math) (12)
+- [hashing](#hashing) (1)
+- [implementation](#implementation) (31)
+- [math](#math) (14)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (3)
 - [strings](#strings) (11)
@@ -68,6 +71,18 @@
 | 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.txt) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.txt) |
 
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.txt) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.txt) |
+
 ### games
 
 | # | Problem | Difficulty | Solution |
@@ -89,6 +104,12 @@
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.txt) |
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.txt) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.txt) |
+
+### hashing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.txt) |
 
 ### implementation
 
@@ -124,6 +145,7 @@
 | 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.txt) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.txt) |
 | 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.txt) |
+| 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.txt) |
 
 ### math
 
@@ -139,8 +161,10 @@
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.txt) |
 | 1985D | [Manhattan Circle](https://codeforces.com/contest/1985/problem/D) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1985/D%20-%20Manhattan%20Circle/solution.txt) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.txt) |
+| 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.txt) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2259/B%20-%20Minus%20Two/solution.txt) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.txt) |
+| 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.txt) |
 
 ### number theory
 
