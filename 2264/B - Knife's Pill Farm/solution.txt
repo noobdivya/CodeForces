@@ -1,0 +1,52 @@
+package main
+ 
+import (
+	"bufio"
+	"container/heap"
+	"fmt"
+	"os"
+)
+ 
+type maxHeap []int
+ 
+func (h maxHeap) Len() int            { return len(h) }
+func (h maxHeap) Less(i, j int) bool  { return h[i] > h[j] }
+func (h maxHeap) Swap(i, j int)       { h[i], h[j] = h[j], h[i] }
+func (h *maxHeap) Push(x interface{}) { *h = append(*h, x.(int)) }
+func (h *maxHeap) Pop() interface{} {
+	old := *h
+	x := old[len(old)-1]
+	*h = old[:len(old)-1]
+	return x
+}
+ 
+func main() {
+	in := bufio.NewReaderSize(os.Stdin, 1<<20)
+	out := bufio.NewWriter(os.Stdout)
+	defer out.Flush()
+ 
+	var t int
+	fmt.Fscan(in, &t)
+	for ; t > 0; t-- {
+		var n, m int
+		fmt.Fscan(in, &n, &m)
+		h := &maxHeap{}
+		sum := 0
+		best := int(-4e18)
+		for j := 1; j <= n; j++ {
+			var a int
+			fmt.Fscan(in, &a)
+			if j >= m {
+				if v := m*a - sum; v > best {
+					best = v
+				}
+			}
+			heap.Push(h, a)
+			sum += a
+			if h.Len() > m-1 {
+				sum -= heap.Pop(h).(int)
+			}
+		}
+		fmt.Fprintln(out, best)
+	}
+}
