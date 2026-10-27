@@ -1,0 +1,38 @@
+package main
+ 
+import (
+	"bufio"
+	"fmt"
+	"os"
+)
+ 
+func main() {
+	in := bufio.NewReader(os.Stdin)
+	out := bufio.NewWriter(os.Stdout)
+	defer out.Flush()
+ 
+	var t int
+	fmt.Fscan(in, &t)
+	for ; t > 0; t-- {
+		var x, y, k int
+		fmt.Fscan(in, &x, &y, &k)
+		d := y - x
+		last := x + k - 1
+		total := 0
+ 
+		// a <= d: compute d mod a directly
+		for a := x; a <= last && a <= d; a++ {
+			total += d % a
+		}
+ 
+		// a > d: d mod a == d
+		lo := x
+		if d+1 > lo {
+			lo = d + 1
+		}
+		if last >= lo {
+			total += (last - lo + 1) * d
+		}
+		fmt.Fprintln(out, total)
+	}
+}
