@@ -1,0 +1,47 @@
+package main
+ 
+import (
+	"bufio"
+	"fmt"
+	"os"
+	"sort"
+	"strconv"
+)
+ 
+func main() {
+	in := bufio.NewReaderSize(os.Stdin, 1<<20)
+	out := bufio.NewWriterSize(os.Stdout, 1<<20)
+	defer out.Flush()
+ 
+	var t int
+	fmt.Fscan(in, &t)
+	for ; t > 0; t-- {
+		var n int
+		var s string
+		fmt.Fscan(in, &n, &s)
+ 
+		stack := []int{}
+		res := []int{}
+		for i := 1; i <= n; i++ {
+			switch s[i-1] {
+			case '1':
+				stack = append(stack, i)
+			case '2':
+				if len(stack) > 0 {
+					stack = stack[:len(stack)-1]
+					res = append(res, i)
+				}
+			}
+		}
+		res = append(res, stack...)
+		sort.Ints(res)
+ 
+		fmt.Fprintln(out, len(res))
+		for _, v := range res {
+			out.WriteString(strconv.Itoa(v))
+			out.WriteByte(' ')
+		}
+		out.WriteByte('
+')
+	}
+}
