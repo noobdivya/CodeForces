@@ -1,0 +1,66 @@
+package main
+ 
+import (
+	"bufio"
+	"fmt"
+	"os"
+)
+ 
+func solve(s string) int {
+	n := len(s)
+	ans := 1
+ 
+	shorter := false
+	longer := false
+ 
+	i := 0
+ 
+	for i < n {
+		j := i
+ 
+		// Find the end of the current group
+		for j < n && s[j] == s[i] {
+			j++
+		}
+ 
+		length := j - i
+ 
+		// Internal group of length 1
+		if i > 0 && j < n && length == 1 {
+			shorter = true
+		}
+ 
+		// Group of length >= 3
+		if length >= 3 {
+			longer = true
+		}
+ 
+		i = j
+	}
+ 
+	if shorter {
+		ans++
+	}
+ 
+	if longer {
+		ans++
+	}
+ 
+	return ans
+}
+ 
+func main() {
+	in := bufio.NewReader(os.Stdin)
+	out := bufio.NewWriter(os.Stdout)
+	defer out.Flush()
+ 
+	var t int
+	fmt.Fscan(in, &t)
+ 
+	for ; t > 0; t-- {
+		var s string
+		fmt.Fscan(in, &s)
+ 
+		fmt.Fprintln(out, solve(s))
+	}
+}
