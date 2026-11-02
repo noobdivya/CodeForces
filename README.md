@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 59 | 16 |
+| 61 | 16 |
 
 ---
 
@@ -22,11 +22,11 @@
 - [games](#games) (1)
 - [greedy](#greedy) (12)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (32)
-- [math](#math) (16)
+- [implementation](#implementation) (33)
+- [math](#math) (17)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (3)
-- [strings](#strings) (11)
+- [strings](#strings) (12)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -157,6 +157,7 @@
 | 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.txt) |
 | 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.txt) |
 | 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.txt) |
+| 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.txt) |
 
 ### math
 
@@ -172,6 +173,7 @@
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.txt) |
 | 1985D | [Manhattan Circle](https://codeforces.com/contest/1985/problem/D) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1985/D%20-%20Manhattan%20Circle/solution.txt) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.txt) |
+| 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2257/B%20-%20Gigantomachy/solution.txt) |
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.txt) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2259/B%20-%20Minus%20Two/solution.txt) |
 | 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.txt) |
@@ -209,6 +211,7 @@
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.txt) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.txt) |
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.txt) |
+| 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.txt) |
 
 ### two pointers
 
