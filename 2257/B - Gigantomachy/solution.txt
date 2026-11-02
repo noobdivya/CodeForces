@@ -1,0 +1,33 @@
+package main
+ 
+import (
+	"bufio"
+	"fmt"
+	"os"
+)
+ 
+func main() {
+	in := bufio.NewReader(os.Stdin)
+	out := bufio.NewWriter(os.Stdout)
+	defer out.Flush()
+ 
+	var t int
+	fmt.Fscan(in, &t)
+	for ; t > 0; t-- {
+		var n, m int
+		fmt.Fscan(in, &n, &m)
+		a := make([]int, n)
+		b := make([]int, m)
+		for i := range a {
+			fmt.Fscan(in, &a[i])
+		}
+		for i := range b {
+			fmt.Fscan(in, &b[i])
+		}
+		if b[0]+m <= a[0]+n {
+			fmt.Fprintln(out, 1)
+		} else {
+			fmt.Fprintln(out, 2)
+		}
+	}
+}
