@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 61 | 16 |
+| 63 | 16 |
 
 ---
 
@@ -22,8 +22,8 @@
 - [games](#games) (1)
 - [greedy](#greedy) (12)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (33)
-- [math](#math) (17)
+- [implementation](#implementation) (35)
+- [math](#math) (19)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (3)
 - [strings](#strings) (12)
@@ -131,6 +131,7 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/116/A%20-%20Tram/solution.txt) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
+| 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/200/B%20-%20Drinks/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.txt) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.txt) |
@@ -139,6 +140,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/344/A%20-%20Magnets/solution.txt) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.txt) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.txt) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/520/A%20-%20Pangram/solution.txt) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.txt) |
@@ -165,6 +167,8 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/4/A%20-%20Watermelon/solution.txt) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
+| 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/200/B%20-%20Drinks/solution.txt) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.txt) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.txt) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.txt) |
