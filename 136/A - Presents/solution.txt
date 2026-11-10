@@ -1,0 +1,22 @@
+package main
+ 
+import "fmt"
+ 
+func main() {
+    var n int
+    fmt.Scan(&n)
+ 
+    ans := make([]int, n+1)
+ 
+    for i := 1; i <= n; i++ {
+        var p int
+        fmt.Scan(&p)
+ 
+        ans[p] = i
+    }
+ 
+    for i := 1; i <= n; i++ {
+        fmt.Print(ans[i], " ")
+    }
+    fmt.Println()
+}
