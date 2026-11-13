@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 66 | 16 |
+| 68 | 16 |
 
 ---
 
@@ -14,19 +14,19 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (4)
-- [brute force](#brute-force) (13)
-- [constructive algorithms](#constructive-algorithms) (4)
+- [brute force](#brute-force) (14)
+- [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (1)
-- [games](#games) (1)
-- [greedy](#greedy) (12)
+- [games](#games) (2)
+- [greedy](#greedy) (13)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (38)
-- [math](#math) (19)
+- [math](#math) (20)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (3)
-- [strings](#strings) (12)
+- [strings](#strings) (13)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -57,6 +57,7 @@
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.txt) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.txt) |
+| 1496A | [Split it!](https://codeforces.com/contest/1496/problem/A) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1496/A%20-%20Split%20it!/solution.txt) |
 | 2225B | [Alternating String](https://codeforces.com/contest/2225/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2225/B%20-%20Alternating%20String/solution.txt) |
 | 2237B | [Annoying the Ghost](https://codeforces.com/contest/2237/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2237/B%20-%20Annoying%20the%20Ghost/solution.txt) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.txt) |
@@ -69,6 +70,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.txt) |
+| 1496A | [Split it!](https://codeforces.com/contest/1496/problem/A) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1496/A%20-%20Split%20it!/solution.txt) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.txt) |
 | 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.txt) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.txt) |
@@ -96,6 +98,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2261C | [I Know About a Million Things](https://codeforces.com/contest/2261/problem/C) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2261/C%20-%20I%20Know%20About%20a%20Million%20Things/solution.txt) |
 | 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.txt) |
 
 ### greedy
@@ -106,6 +109,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/231/A%20-%20Team/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1367/B%20-%20Even%20Array/solution.txt) |
+| 1496A | [Split it!](https://codeforces.com/contest/1496/problem/A) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1496/A%20-%20Split%20it!/solution.txt) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.txt) |
 | 2209B | [Array](https://codeforces.com/contest/2209/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2209/B%20-%20Array/solution.txt) |
 | 2225B | [Alternating String](https://codeforces.com/contest/2225/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2225/B%20-%20Alternating%20String/solution.txt) |
@@ -184,6 +188,7 @@
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.txt) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2259/B%20-%20Minus%20Two/solution.txt) |
 | 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.txt) |
+| 2261C | [I Know About a Million Things](https://codeforces.com/contest/2261/problem/C) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2261/C%20-%20I%20Know%20About%20a%20Million%20Things/solution.txt) |
 | 2264B | [Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2264/B%20-%20Knife's%20Pill%20Farm/solution.txt) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.txt) |
 | 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.txt) |
@@ -216,6 +221,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/520/A%20-%20Pangram/solution.txt) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.txt) |
+| 1496A | [Split it!](https://codeforces.com/contest/1496/problem/A) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1496/A%20-%20Split%20it!/solution.txt) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.txt) |
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.txt) |
 | 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.txt) |
