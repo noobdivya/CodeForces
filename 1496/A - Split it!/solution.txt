@@ -1,0 +1,42 @@
+package main
+ 
+import (
+	"bufio"
+	"fmt"
+	"os"
+)
+ 
+func main() {
+	in := bufio.NewReader(os.Stdin)
+	out := bufio.NewWriter(os.Stdout)
+	defer out.Flush()
+ 
+	var t int
+	fmt.Fscan(in, &t)
+	for ; t > 0; t-- {
+		var n, k int
+		var s string
+		fmt.Fscan(in, &n, &k, &s)
+ 
+		if k == 0 {
+			fmt.Fprintln(out, "YES")
+			continue
+		}
+		if 2*k >= n {
+			fmt.Fprintln(out, "NO")
+			continue
+		}
+		ok := true
+		for i := 0; i < k; i++ {
+			if s[i] != s[n-1-i] {
+				ok = false
+				break
+			}
+		}
+		if ok {
+			fmt.Fprintln(out, "YES")
+		} else {
+			fmt.Fprintln(out, "NO")
+		}
+	}
+}
