@@ -1,0 +1,67 @@
+package main
+ 
+import (
+	"bufio"
+	"os"
+	"strconv"
+)
+ 
+func main() {
+	in := bufio.NewReaderSize(os.Stdin, 1<<20)
+	out := bufio.NewWriter(os.Stdout)
+	defer out.Flush()
+ 
+	readInt := func() int {
+		n := 0
+		c, _ := in.ReadByte()
+		for c == ' ' || c == '
+' || c == '\r' {
+			c, _ = in.ReadByte()
+		}
+		for c >= '0' && c <= '9' {
+			n = n*10 + int(c-'0')
+			c, _ = in.ReadByte()
+		}
+		return n
+	}
+ 
+	t := readInt()
+	for ; t > 0; t-- {
+		n, m := readInt(), readInt()
+		cnt := make([]int, m+2)
+		for i := 0; i < n; i++ {
+			cnt[readInt()]++
+		}
+ 
+		// greater[x] = number of carrots with length > x
+		greater := make([]int, m+2)
+		// sufMax[L] = max cnt[M] for M > L
+		sufMax := make([]int, m+2)
+		for x := m - 1; x >= 0; x-- {
+			greater[x] = greater[x+1] + cnt[x+1]
+			sufMax[x] = sufMax[x+1]
+			if cnt[x+1] > sufMax[x] {
+				sufMax[x] = cnt[x+1]
+			}
+		}
+ 
+		best := 0
+		for l := 1; l <= m; l++ {
+			// target L = l, cut size x = l
+			v := cnt[l] + greater[l]
+			if 2*l <= m {
+				v += cnt[2*l]
+			}
+			if v > best {
+				best = v
+			}
+			// target L = l, cut size x != l
+			if v2 := cnt[l] + sufMax[l]; v2 > best {
+				best = v2
+			}
+		}
+		out.WriteString(strconv.Itoa(best))
+		out.WriteByte('
+')
+	}
+}
