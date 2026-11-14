@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 68 | 16 |
+| 69 | 16 |
 
 ---
 
@@ -14,16 +14,16 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (4)
-- [brute force](#brute-force) (14)
+- [brute force](#brute-force) (15)
 - [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (1)
-- [games](#games) (2)
+- [games](#games) (3)
 - [greedy](#greedy) (13)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (38)
-- [math](#math) (20)
+- [math](#math) (21)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (3)
 - [strings](#strings) (13)
@@ -60,6 +60,7 @@
 | 1496A | [Split it!](https://codeforces.com/contest/1496/problem/A) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1496/A%20-%20Split%20it!/solution.txt) |
 | 2225B | [Alternating String](https://codeforces.com/contest/2225/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2225/B%20-%20Alternating%20String/solution.txt) |
 | 2237B | [Annoying the Ghost](https://codeforces.com/contest/2237/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2237/B%20-%20Annoying%20the%20Ghost/solution.txt) |
+| 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.txt) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.txt) |
 | 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.txt) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.txt) |
@@ -98,6 +99,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.txt) |
 | 2261C | [I Know About a Million Things](https://codeforces.com/contest/2261/problem/C) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2261/C%20-%20I%20Know%20About%20a%20Million%20Things/solution.txt) |
 | 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.txt) |
 
@@ -186,6 +188,7 @@
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.txt) |
 | 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2257/B%20-%20Gigantomachy/solution.txt) |
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.txt) |
+| 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.txt) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2259/B%20-%20Minus%20Two/solution.txt) |
 | 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.txt) |
 | 2261C | [I Know About a Million Things](https://codeforces.com/contest/2261/problem/C) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2261/C%20-%20I%20Know%20About%20a%20Million%20Things/solution.txt) |
