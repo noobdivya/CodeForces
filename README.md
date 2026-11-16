@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 69 | 16 |
+| 70 | 16 |
 
 ---
 
@@ -22,12 +22,12 @@
 - [games](#games) (3)
 - [greedy](#greedy) (13)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (38)
+- [implementation](#implementation) (39)
 - [math](#math) (21)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (3)
-- [strings](#strings) (13)
-- [two pointers](#two-pointers) (2)
+- [strings](#strings) (14)
+- [two pointers](#two-pointers) (3)
 
 ---
 
@@ -162,6 +162,7 @@
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1742/A%20-%20Sum/solution.txt) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.txt) |
 | 1985D | [Manhattan Circle](https://codeforces.com/contest/1985/problem/D) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1985/D%20-%20Manhattan%20Circle/solution.txt) |
+| 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2254/B%20-%20Evanescent/solution.txt) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.txt) |
 | 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.txt) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.txt) |
@@ -226,6 +227,7 @@
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.txt) |
 | 1496A | [Split it!](https://codeforces.com/contest/1496/problem/A) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1496/A%20-%20Split%20it!/solution.txt) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.txt) |
+| 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2254/B%20-%20Evanescent/solution.txt) |
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.txt) |
 | 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.txt) |
 
@@ -233,6 +235,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2254/B%20-%20Evanescent/solution.txt) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.txt) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.txt) |
 
