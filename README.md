@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 70 | 16 |
+| 71 | 16 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (4)
 - [brute force](#brute-force) (15)
-- [constructive algorithms](#constructive-algorithms) (5)
+- [constructive algorithms](#constructive-algorithms) (6)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (1)
@@ -73,6 +73,7 @@
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.txt) |
 | 1496A | [Split it!](https://codeforces.com/contest/1496/problem/A) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1496/A%20-%20Split%20it!/solution.txt) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.txt) |
+| 2247B | [Yet Another Constructive](https://codeforces.com/contest/2247/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2247/B%20-%20Yet%20Another%20Constructive/solution.txt) |
 | 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.txt) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.txt) |
 
