@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 72 | 16 |
+| 73 | 16 |
 
 ---
 
@@ -19,12 +19,12 @@
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
-- [games](#games) (3)
+- [games](#games) (4)
 - [greedy](#greedy) (13)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (39)
-- [math](#math) (22)
-- [number theory](#number-theory) (3)
+- [math](#math) (23)
+- [number theory](#number-theory) (4)
 - [sortings](#sortings) (3)
 - [strings](#strings) (14)
 - [two pointers](#two-pointers) (3)
@@ -101,6 +101,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.txt) |
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.txt) |
 | 2261C | [I Know About a Million Things](https://codeforces.com/contest/2261/problem/C) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2261/C%20-%20I%20Know%20About%20a%20Million%20Things/solution.txt) |
 | 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.txt) |
@@ -187,6 +188,7 @@
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.txt) |
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1367/B%20-%20Even%20Array/solution.txt) |
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.txt) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.txt) |
 | 1985D | [Manhattan Circle](https://codeforces.com/contest/1985/problem/D) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1985/D%20-%20Manhattan%20Circle/solution.txt) |
 | 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.txt) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.txt) |
@@ -204,6 +206,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.txt) |
 | 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.txt) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2259/B%20-%20Minus%20Two/solution.txt) |
 | 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.txt) |
