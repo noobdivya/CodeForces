@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 73 | 16 |
+| 74 | 16 |
 
 ---
 
@@ -15,15 +15,15 @@
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (4)
 - [brute force](#brute-force) (15)
-- [constructive algorithms](#constructive-algorithms) (6)
+- [constructive algorithms](#constructive-algorithms) (7)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
 - [games](#games) (4)
 - [greedy](#greedy) (13)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (39)
-- [math](#math) (23)
+- [implementation](#implementation) (40)
+- [math](#math) (24)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (3)
 - [strings](#strings) (14)
@@ -70,6 +70,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.txt) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.txt) |
 | 1496A | [Split it!](https://codeforces.com/contest/1496/problem/A) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1496/A%20-%20Split%20it!/solution.txt) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.txt) |
@@ -141,6 +142,7 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/116/A%20-%20Tram/solution.txt) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/136/A%20-%20Presents/solution.txt) |
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.txt) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/200/B%20-%20Drinks/solution.txt) |
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.txt) |
@@ -180,6 +182,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/4/A%20-%20Watermelon/solution.txt) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.txt) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/200/B%20-%20Drinks/solution.txt) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.txt) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
