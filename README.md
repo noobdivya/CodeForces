@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 74 | 16 |
+| 75 | 16 |
 
 ---
 
@@ -15,14 +15,14 @@
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (4)
 - [brute force](#brute-force) (15)
-- [constructive algorithms](#constructive-algorithms) (7)
+- [constructive algorithms](#constructive-algorithms) (8)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
 - [games](#games) (4)
 - [greedy](#greedy) (13)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (40)
+- [implementation](#implementation) (41)
 - [math](#math) (24)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (3)
@@ -71,6 +71,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.txt) |
+| 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.txt) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.txt) |
 | 1496A | [Split it!](https://codeforces.com/contest/1496/problem/A) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1496/A%20-%20Split%20it!/solution.txt) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.txt) |
@@ -153,6 +154,7 @@
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/344/A%20-%20Magnets/solution.txt) |
+| 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.txt) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.txt) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.txt) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/520/A%20-%20Pangram/solution.txt) |
